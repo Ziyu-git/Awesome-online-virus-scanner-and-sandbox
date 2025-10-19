@@ -85,7 +85,7 @@
 ## 27.[阿里云沙箱](ti.aliyun.com)
 入口：[管理控制台-二进制文件检测](https://ti.aliyun.com/#/binary)
 
-## 28.[FortiGuard Labs](fortiguard.com/faq/onlinescanner)
+## 28.[FortiGuard Labs](https://fortiguard.com/faq/onlinescanner)
 入口：[Online Scanner | FortiGuard Labs](https://www.fortiguard.com/faq/onlinescanner)
 
 ## 29.[ScanVir](scanvir.com)
